@@ -1,0 +1,23 @@
+{
+  "name": "SneeKeyHome",
+  "version": "0.0.1",
+  "description": "Web Interface For Insteon Home Automation",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^11.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsnee/SneeKeyHome.git"
+  },
+  "keywords": [
+    "Automation"
+  ],
+  "author": "Joe Snee <snoey.92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsnee/SneeKeyHome/issues"
+  },
+  "homepage": "https://github.com/jsnee/SneeKeyHome"
+}
